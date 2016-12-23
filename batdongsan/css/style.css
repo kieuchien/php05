@@ -1,0 +1,13 @@
+/*lien he*/
+body{
+	background: url("../img/bg.jpg");
+	height: 700px;
+}
+.portfolio-item{
+	padding-bottom: 30px;
+}
+.footer{
+	background: red;
+	width: 100% !important;
+	height: 120px !important;
+}
